@@ -281,6 +281,16 @@
 					<key>Replace</key>
 					<data>k0RQVEYBWEU0MqQ=</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>disable I2C0, pair with SSDT-VI2C.aml</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1NUQQCkTFNUQVNNRDA=</data>
+					<key>Replace</key>
+					<data>WFNUQQCkTFNUQVNNRDA=</data>
+				</dict>
 			</array>
 		</dict>
 		<key>DisabledAML</key>
