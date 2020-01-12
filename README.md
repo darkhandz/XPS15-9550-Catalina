@@ -6,7 +6,8 @@
 
 > 请不要开启`filevault`，我完全没有用过这个功能，你有需要的话，自己重新安装一下Clover。
 
-Clover是`r5102`版本，[这里有下载](https://github.com/CloverHackyColor/CloverBootloader/releases)。
+Clover是`r5102`版本，安装参考文末设置, [这里有下载](https://github.com/CloverHackyColor/CloverBootloader/releases)
+
 
 ### 硬件配置
 
@@ -45,3 +46,6 @@ DW1830我是机器原配的，如果你要另外买，建议考虑下DW1560或DW
 看见`Enjoy!`的话，ComboJack就安装完成了，重启一下系统。
 
 
+### Clover 安装参考
+
+![安装选项](https://github.com/darkhandz/XPS15-9550-Catalina/blob/master/Clover_Install.jpg)
