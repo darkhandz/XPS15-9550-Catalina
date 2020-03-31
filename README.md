@@ -2,11 +2,11 @@
 
 这里只分享我自己目前在用的配置，不一定适合你，可以参考，修改成自己合用的。
 
-这套配置是我10.15.2用的，在全新安装的情况下请自行测试下，可能会需要你用外置鼠标。
+这套配置是我10.15.4用的，在全新安装的情况下请自行测试下，可能会需要你用外置鼠标。
 
 > 请不要开启`filevault`，我完全没有用过这个功能，你有需要的话，自己重新安装一下Clover。
 
-Clover是`r5102`版本，安装参考文末设置, [这里有下载](https://github.com/CloverHackyColor/CloverBootloader/releases)
+Clover是`r5107`版本，安装参考文末设置, [这里有下载](https://github.com/CloverHackyColor/CloverBootloader/releases)
 
 
 ### 硬件配置
